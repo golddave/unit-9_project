@@ -1,0 +1,72 @@
+h1, h2, h3 {
+  text-align: center;
+}
+
+.big-image {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.columns {
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.col {
+  box-sizing: border-box;
+  width: 45%;
+  margin: 0 auto;
+  border: 1px solid grey;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+.reservation-form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.reservation-table {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-spacing: 0px;
+}
+
+#map {
+  height: 400px;
+  margin: 0 auto;
+}
+
+#jerry {
+  float:left;
+  width: 100%;
+}
+
+.review {
+  text-align: right;
+  border: none;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+label {
+  width: 100px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+th, td{
+  padding: 5px;
+  border:1px solid grey;
+  width: 25%;
+  text-align: center;
+}
